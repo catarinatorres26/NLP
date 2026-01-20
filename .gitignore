@@ -28,3 +28,7 @@ project/lora_out/
 *.safetensors
 *.pt
 *.pth
+
+# exclude training outputs
+project/lora_out/
+*.safetensors
