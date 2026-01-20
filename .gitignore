@@ -22,3 +22,9 @@ runs/
 *.h5
 *.npy
 *.npz
+
+# training outputs / model weights
+project/lora_out/
+*.safetensors
+*.pt
+*.pth
