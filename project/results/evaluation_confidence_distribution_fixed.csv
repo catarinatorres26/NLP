@@ -1,0 +1,17 @@
+method,confidence_level,count,share
+zero,high,20,0.6666666666666666
+zero,medium,10,0.3333333333333333
+zero,low,0,0.0
+zero,_missing_or_invalid,0,0.0
+one,high,19,0.6333333333333333
+one,medium,11,0.36666666666666664
+one,low,0,0.0
+one,_missing_or_invalid,0,0.0
+few,high,19,0.6333333333333333
+few,medium,11,0.36666666666666664
+few,low,0,0.0
+few,_missing_or_invalid,0,0.0
+ft,high,0,0.0
+ft,medium,0,0.0
+ft,low,0,0.0
+ft,_missing_or_invalid,30,1.0

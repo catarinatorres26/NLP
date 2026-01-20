@@ -1,0 +1,25 @@
+# SageMaker / Jupyter
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+.keras/
+
+# caches
+.cache/
+__pycache__/
+
+# AWS
+.aws/
+
+# envs
+.venv/
+env/
+
+# data / models
+data/
+datasets/
+models/
+outputs/
+*.pt
+*.pkl
+*.bin

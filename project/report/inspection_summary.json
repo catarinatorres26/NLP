@@ -1,0 +1,10 @@
+{
+  "train_lines": 138,
+  "test_lines": 30,
+  "train_confidence_distribution": {
+    "high": 103,
+    "medium": 35
+  },
+  "bad_train_lines": 0,
+  "bad_test_lines": 0
+}

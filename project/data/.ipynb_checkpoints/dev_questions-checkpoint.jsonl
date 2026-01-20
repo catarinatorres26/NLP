@@ -1,0 +1,14 @@
+{"question": "Qual o efeito dos agonistas GLP-1 na secreção de glucagon e porquê isso importa na glicemia?", "category": "glp1_metabolic"}
+{"question": "Em que situações o risco de hipoglicemia com GLP-1 aumenta, e porquê?", "category": "glp1_metabolic"}
+{"question": "Que estratégias de titulação ajudam a reduzir náuseas no início da terapêutica com GLP-1?", "category": "glp1_metabolic"}
+{"question": "Existe evidência de melhoria de NAFLD/NASH com GLP-1? Distingue evidência clínica vs mecanística.", "category": "glp1_metabolic"}
+{"question": "Em obesidade sem diabetes, qual é o racional clínico para GLP-1 e que limites de segurança devem ser comunicados?", "category": "glp1_metabolic"}
+{"question": "O que significa compressão de morbilidade e como se relaciona com healthspan?", "category": "aging_biology"}
+{"question": "Qual a diferença entre melhorar biomarcadores e melhorar desfechos clínicos?", "category": "aging_biology"}
+{"question": "O que é senescência celular e por que está associada a inflamação crónica?", "category": "aging_biology"}
+{"question": "Porque é que a perda de massa muscular pode ser um problema em perda de peso em idosos?", "category": "aging_biology"}
+{"question": "Porque é difícil validar biomarcadores de idade biológica para uso clínico?", "category": "aging_biology"}
+{"question": "Como explicarias a um doente a diferença entre indicação aprovada e uso off-label em prevenção?", "category": "clinical_safety"}
+{"question": "Que dados de segurança de longo prazo são tipicamente exigidos antes de recomendar uso preventivo em população saudável?", "category": "clinical_safety"}
+{"question": "Que erros comuns um modelo de IA comete em longevity drugs e como mitigá-los?", "category": "clinical_safety"}
+{"question": "Como deves expressar low confidence de forma útil sem alarmar nem criar falsa certeza?", "category": "clinical_safety"}

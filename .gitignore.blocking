@@ -1,0 +1,8 @@
+# Ignore everything at repo root by default
+/*
+
+# But keep the project folder
+!/NLP/
+
+# Keep gitignore itself
+!.gitignore

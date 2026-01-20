@@ -1,0 +1,5 @@
+method,n_questions,nonempty_short_answer,nonempty_rate,unsafe_proxy_count,unsafe_proxy_rate
+few,30,0,0.0,0,0.0
+ft,30,0,0.0,0,0.0
+one,30,0,0.0,0,0.0
+zero,30,0,0.0,0,0.0
